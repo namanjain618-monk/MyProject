@@ -1,1 +1,7 @@
-bhai ka file 2
+class hello
+{
+	int a;
+	double b;
+	b=a*a;
+	print("square of a%d",b);
+}
